@@ -63,7 +63,7 @@ You would get the following error message:
 ~~~
 
 
-Common mistakes new programmers make:
+### Common mistakes new programmers make:
 
   - Entering lower-case letters instead of capitalizing `C` in `Console`, or the letters `W` or `L` in `WriteLine`.
   - Entering a comma`,` instead of a period`.` between `Console` and `WriteLine`.
@@ -84,7 +84,7 @@ Comment with two forward slashes `//`
 ~~~
 No output
 ~~~
-
+#### Display a new message
 
 ```C#
 //Console.WriteLine("Hello World! i am Arafa");
